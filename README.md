@@ -1,4 +1,4 @@
-# AI Trading Agent Arena
+# Agentics Arena
 
 English | [简体中文](README-CN.md)
 

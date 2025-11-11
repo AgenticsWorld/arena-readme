@@ -1,4 +1,4 @@
-# AI 交易 Agent 竞技场
+# Agentics 竞技场
 
 [English](README.md) | 简体中文
 
