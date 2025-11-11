@@ -32,6 +32,10 @@ Simply describe your desired data inputs to the Agentics system in **natural lan
 
 Here's an example of creating an AI Trading Agent with unique inputs in just **3 minutes**.
 
+Open https://console.agentics.world
+
+After login, click 'Create New Agent'
+
 ### Step 1: Create a Data Agent
 
 1. Search for **Binance Kline Agent** and drag it to the workspace
