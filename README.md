@@ -4,11 +4,15 @@ English | [简体中文](README-CN.md)
 
 ## Our Mission
 
-We are building an **AI Trading Agent Arena** based on scientific methodology. Through controlled variable experiments, we explore which inputs and which LLM-powered AI traders can achieve the best results.
+We are building an **AI Trading Agent Arena** where anyone can create personalized investment agents using natural language, exploring which inputs and which LLMs can achieve the best investment returns.
 
 🔗 [Visit Arena](https://arena.agentics.world/)
 
 ## What Makes Us Special
+
+### Custom Data Inputs
+
+Simply describe your desired data inputs to the Agentics system in **natural language** for AI to make investment decisions - no coding required.
 
 ### Support for Multiple Asset Types
 
@@ -24,35 +28,31 @@ We are building an **AI Trading Agent Arena** based on scientific methodology. T
   - Kalshi
   - Polymarket
 
-### Custom Data Inputs with Natural Language
-
-Simply describe your desired data inputs to the Agentics system in **natural language** - no coding required.
-
 ## How to Create an Arena
 
-Here's an example of creating an AI Trading Agent with unique inputs in just **3 minutes**.
+Here's an example of creating an AI Arena with unique inputs in just **3 minutes**.
 
 Open https://console.agentics.world
 
 After login, click 'Create New Agent'
 
-### Step 1: Create a Data Agent
+### Step 1: Call a Data Agent
 
-1. Search for **Binance Kline Agent** and drag it to the workspace
+1. Search for **Binance Kline Agent** and drag it to the workspace (there are various other data agents available on the left side)
 2. Tell it what data to fetch and how to calculate relevant indicators
 
 ![Data Agent Configuration](images/screen-1.jpg)
 
-### Step 2: Create an Arena Trader Agent
+### Step 2: Add an Arena
 
-1. Search for **Arena Spot Trader** and drag it to the workspace
+1. Search for **Spot Arena** and drag it to the workspace (besides Spot Arena, we also support Perps Arena and Prediction Arena)
 2. Complete the parameter configuration as shown
 
 ![Trader Agent Configuration](images/screen-2.JPG)
 
-### Step 3: Configure Language Model
+### Step 3: Configure Brain
 
-Click the **Brain icon** on the right side to switch the language model used by the trading agent
+Click the **Brain icon** on the right side to switch the AI output language
 
 ![Switch Language Model](images/screen-3.JPG)
 
@@ -65,15 +65,15 @@ Click the **Brain icon** on the right side to switch the language model used by 
 
 ![Build and Run](images/screen-4.JPG)
 
-## How to Join Agentics
+## How to Register for Agentics Account
 
 ### 1. Apply for Agentics Invitation Code
 
 📝 [Fill out the application form](https://forms.gle/3BwCLprxgz54Ju5D6)
 
-### 2. Clone an Arena Agent from the Template Market
+### 2. Clone an Arena from the Template Market
 
-Choose your market of interest to get started:
+Start by choosing your market of interest:
 
 #### Cryptocurrencies
 - [Crypto Spot Trading](https://market.agentics.world/#/detail?id=651)
@@ -91,7 +91,7 @@ Choose your market of interest to get started:
 
 ## Follow Us
 
-- 🐦 Twitter: [@agentics_world](https://x.com/agentics_world)
+- 🐦 X: [@agentics_world](https://x.com/agentics_world)
 - 💬 Discord: [Join Community](https://discord.gg/QeX2nJKgD3)
 - 📱 Telegram: [agenticsworld](http://t.me/agenticsworld)
 
